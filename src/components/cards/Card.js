@@ -1,17 +1,6 @@
-import React, { useState } from 'react';
 import './Card.css';
 
 const Card = ({ data }) => {
-  // const [hover, setHover] = useState();
-
-  // const handleMouseIn = () => {
-  //   setHover(true);
-  // };
-
-  // const handleMouseOut = () => {
-  //   setHover(false);
-  // };
-
   return (
     <div className="containers">
       {data.map((city) => {

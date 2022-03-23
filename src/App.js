@@ -5,7 +5,6 @@ import Navbar from './components/navbar/Navbar';
 import data from './helper/data';
 
 function App() {
-  console.log(data);
   return (
     <div className="App">
       <Navbar />
