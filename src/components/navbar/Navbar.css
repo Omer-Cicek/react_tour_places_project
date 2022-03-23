@@ -1,0 +1,25 @@
+.navbar-link {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  height: 50px;
+}
+
+.navbar-link > li {
+  padding-left: 10px;
+  list-style-type: none;
+}
+
+.navbar-link > li > a {
+  padding: 15px 15px;
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+.navbar-link > li > a:hover {
+  background-color: #61a4bc;
+  padding: 5px 15px;
+  transition: 0.4s;
+}
