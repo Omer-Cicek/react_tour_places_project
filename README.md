@@ -9,7 +9,7 @@ In the project directory, you can run:
 
 # React Tour Places
 
-![Design preview for the tour project section coding challenge](tourPlaces.jpg)
+![Design preview for the tour project section coding challenge](tourPlaces.png)
 
 ## Welcome! 👋
 
