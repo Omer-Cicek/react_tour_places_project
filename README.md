@@ -1,21 +1,20 @@
 
+## Welcome! 👋
+
+Thanks to visit my Github! In this project, i used flexbox. This project is created with React and pure CSS. Here is the link for this project (https://omer-cicek.github.io/react_tour_places_project/)
+
+**To do this project, i used basic React and CSS.**
+
+# React Tour Places
+
+![Design preview for the tour project section coding challenge](tourPlaces.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
 
 ### `npm install`
 ### `npm start`
-
-
-# React Tour Places
-
-![Design preview for the tour project section coding challenge](tourPlaces.png)
-
-## Welcome! 👋
-
-Thanks to visit my Github! In this project, i used flexbox. This project is created with React and pure CSS. Here is the link for this project (https://omer-cicek.github.io/react_tour_places_project/)
-
-**To do this project, i used basic React and CSS.**
 
 ## The challenge
 
